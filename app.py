@@ -17,7 +17,7 @@ This app predicts Iris flower species using Machine Learning and Streamlit.
 # =========================
 # Load Dataset
 # =========================
-df = pd.read_csv("iris.csv")
+df = pd.read_csv("IRIS.csv")
 
 # =========================
 # Show Dataset
